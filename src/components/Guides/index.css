@@ -1,0 +1,24 @@
+.guideView {
+  list-style: none;
+  width: 300px;
+  margin-right: 10px;
+  margin-bottom: 15px;
+  background-color: #ffffff;
+}
+
+@media screen and (min-width: 600px) {
+  .guideView {
+    width: 45%;
+  }
+}
+
+.image {
+  width: 100%;
+}
+
+.name {
+  color: #475569;
+}
+.description {
+  color: #64748b;
+}
